@@ -1,3 +1,8 @@
+Info
+====
+This fork has Windows binaries: https://github.com/oakwhiz/python-lz4/downloads
+
+
 ==========
 python-lz4
 ==========
